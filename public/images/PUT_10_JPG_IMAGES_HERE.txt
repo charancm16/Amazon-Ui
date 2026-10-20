@@ -1,0 +1,1 @@
+Copy your 10 JPG images into this folder and rename them amazon-01.jpg through amazon-10.jpg. See README.md for the suggested mapping from your screenshot.
