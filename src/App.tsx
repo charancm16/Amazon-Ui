@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useState } from 'react'
 import { AnimatePresence, motion, useReducedMotion } from 'framer-motion'
 import {
-  ArrowDown, ArrowRight, ArrowUpRight, AudioLines, Bird, Fish, Footprints,
-  Leaf, Menu, Search, ShieldCheck, Sprout, Trees, Waves, X, PawPrint, Bug,
+  ArrowDown, ArrowRight, ArrowUpRight, AudioLines, Footprints,
+  Leaf, Menu, Search, ShieldCheck, Sprout, Trees, Waves, X, PawPrint,
   Play, Pause, Image as ImageIcon
 } from 'lucide-react'
 
